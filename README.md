@@ -86,3 +86,8 @@ MIT License—free to use, modify, and distribute.
 ## Acknowledgments
 - Built with help from xAI’s Grok—thanks for the assist!
 - Inspired by the need to keep dogs out of litter boxes.
+
+## Author
+
+Brad Mills ([@MillsAirCode](https://github.com/MillsAirCode))
+
